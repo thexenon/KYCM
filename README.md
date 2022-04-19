@@ -5,5 +5,5 @@
 <h2>Join us as we interview them and ask them about their Personal, Social and Academic life...</h2>
 
 
-<h3><a href="https://thexenon.github.io/KYCM/TAB1">TAB 1 Anonymous Questions</a></h3>
-<h3><a href="https://thexenon.github.io/KYCM/TAB2">TAB 2 Anonymous Questions</a></h3>
+<h2><a href="https://thexenon.github.io/KYCM/TAB1">TAB 1 Anonymous Questions</a></h2>
+<h2><a href="https://thexenon.github.io/KYCM/TAB2">TAB 2 Anonymous Questions</a></h2>
