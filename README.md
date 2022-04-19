@@ -7,3 +7,6 @@
 
 <h2><a href="https://thexenon.github.io/KYCM/TAB1">TAB 1 Anonymous Questions</a></h2>
 <h2><a href="https://thexenon.github.io/KYCM/TAB2">TAB 2 Anonymous Questions</a></h2>
+
+
+<h2>Got any questions...? Use the links above to ask them anonymously</h2>
