@@ -46,19 +46,19 @@
     </script>
 
 
-    <div class="brand">
+    <!-- <div class="brand">
         <h2>The <br>BIOSSA - KNUST<br> Anonymous <br> Messages</h2>
     </div>
-    </div><br><br>
-    <hr class="hr-class"><br><br>
+    <br> -->
+    <hr class="hr-class">
     <div>
         <div class="content">
             <div class="log-head">
                 <h2>All Messages</h2>
             </div>
         </div>
-    </div><br><br>
-    <hr class="hr-class"><br><br>
+    </div>
+    <hr class="hr-class">
     <div id="msg-log"></div>
 
 
@@ -70,16 +70,16 @@
                 var blogsHtml = "";
                 blogs.forEach(function (singleBlog) {
                     count = count - 1;
-                    blogsHtml += "<div style='border: 2px solid black; border-radius: 30px; width: 90%; background: linear-gradient(to right, green, black););padding: 20px 10px; font-size: 1.2em; min-height: 100px; position: relative; margin: 2% auto; color:white;'>"
+                    blogsHtml += "<div style='border: 2px solid black; border-radius: 30px; width: 90%; background: linear-gradient(to right, green, black););padding: 10px 5px; font-size: 1.2em; min-height: 100px; position: relative; margin: 2% auto; color:white;'>"
 
-                    blogsHtml += "<p><br>"
+                    blogsHtml += "<span>"
                     blogsHtml += singleBlog.val().anon
-                    blogsHtml += "</p>"
+                    blogsHtml += "</span>"
 
                     blogsHtml += "<br><span style='font-size:0.7rem;'>"
                     blogsHtml += singleBlog.val().date
                     blogsHtml += "</span><br>"
-                    blogsHtml += "<span style='font-size:0.7rem'> BIOSSA - KNUST <br> &copy; OPTYXENON GROUPS &trade;</span>"
+                    blogsHtml += "<span style='font-size:0.7rem'> BIOSSA - KNUST"
                     blogsHtml += "<br><span style='font-size:0.7rem;'>"
                     blogsHtml += singleBlog.val().time
                     blogsHtml += "</span>"
